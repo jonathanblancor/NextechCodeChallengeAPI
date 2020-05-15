@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -21,7 +21,7 @@ namespace Nextech_Code_Challenge.Controllers
         /// Get newest 20 news
         /// </summary>
         /// <returns>Return the newest news</returns>
-        // GET: api/<controller>
+        // GET: api/news
         [HttpGet, EnableCors, ResponseCache(Duration = 60, Location = ResponseCacheLocation.Client)]
         public IActionResult Get()
         {
@@ -44,7 +44,7 @@ namespace Nextech_Code_Challenge.Controllers
         /// </summary>
         /// <param name="searchTerm">Term to search in the news</param>
         /// <returns>News found based on the search term</returns>
-        // GET api/<controller>/5
+        // GET api/news/searchnews?searchterm
         [HttpGet("[action]"), EnableCors]
         public IActionResult SearchNews(string searchTerm)
         {
