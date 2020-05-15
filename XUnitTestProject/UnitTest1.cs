@@ -1,13 +1,6 @@
-using Nextech_Code_Challenge.Controllers;
 using Nextech_Code_Challenge.Models;
 using System;
-using System.Threading.Tasks;
-using System.Web.Http.Results;
 using Xunit;
-using Microsoft.AspNetCore.TestHost;
-using Microsoft.AspNetCore.Hosting;
-using System.Net.Http;
-using Nextech_Code_Challenge;
 using System.Collections.Generic;
 using System.Linq;
 
