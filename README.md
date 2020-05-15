@@ -2,4 +2,9 @@
 
 This project uses ASP.NET Core 2.1.
 
-Test are located in the XUnitTestProject
+Tests are located in the XUnitTestProject
+
+## API Endpoints
+
+GET: api/news. Gets top 20 newest stories
+GET: api/news/SearchNews?searchTerm=`string`
