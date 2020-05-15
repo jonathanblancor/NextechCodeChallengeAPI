@@ -20,10 +20,4 @@
     <ProjectReference Include="..\Nextech Code Challenge\Nextech Code Challenge.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="System.Web.Http">
-      <HintPath>..\..\..\Documents\git repositories\PDF generation service\Biorasipdf\bin\System.Web.Http.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
