@@ -8,4 +8,4 @@ Tests are located in the XUnitTestProject
 
 GET: api/news. Gets top 20 newest stories
 
-GET: api/news/SearchNews?searchTerm=`string`
+GET: api/news/SearchNews?searchTerm=`string`. Gets stories whose title matches the search term
