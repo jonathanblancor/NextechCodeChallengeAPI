@@ -1,0 +1,18 @@
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\Nextech Code Challenge.deps.json
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\Nextech Code Challenge.runtimeconfig.json
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\Nextech Code Challenge.runtimeconfig.dev.json
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\Nextech Code Challenge.dll
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\bin\Release\netcoreapp2.1\Nextech Code Challenge.pdb
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.csprojAssemblyReference.cache
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.RazorAssemblyInfo.cache
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.RazorAssemblyInfo.cs
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.AssemblyInfoInputs.cache
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.AssemblyInfo.cs
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.RazorTargetAssemblyInfo.cache
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.dll
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.pdb
+C:\Users\jblanco\Desktop\Nextech Code Challenge\Nextech Code Challenge\obj\Release\netcoreapp2.1\Nextech Code Challenge.genruntimeconfig.cache
